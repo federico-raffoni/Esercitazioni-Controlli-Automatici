@@ -1,0 +1,4 @@
+Obiettivo: descrivere la traiettoria di un pendolo semplice, con attrito e con forzatura in ingresso
+
+pendolo_ext : estensione della semplice traiettoria con diagramma di fase e dati in input
+pendolo_anim : animazione del pendolo con dati in input
