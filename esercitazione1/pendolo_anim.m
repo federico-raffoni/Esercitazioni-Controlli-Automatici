@@ -1,3 +1,5 @@
+% animazione di un pendolo semplice
+
 clear; clc
 
 g = 9.81; % m/s^2
@@ -46,3 +48,4 @@ for k = 1:length(time)
     
     drawnow
 end
+
