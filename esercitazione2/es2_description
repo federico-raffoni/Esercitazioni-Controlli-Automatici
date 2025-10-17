@@ -1,0 +1,4 @@
+Obiettivo: utilizzo del Control System Toolbox e sistemi con retroazione
+
+carrello / pendolo : simulazione della traiettoria di stato per l'evoluzione libera, forzata, la somma delle due e l'unione di c.i. e ingresso, 
+rispettivamente per un sistema massa-molla e per un pendolo 
