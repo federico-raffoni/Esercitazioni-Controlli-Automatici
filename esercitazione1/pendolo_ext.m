@@ -1,5 +1,6 @@
-clear 
-clc
+% simulazione di traiettoria e di diagramma delle fasi di un pendolo
+
+clear; clc
 
 g = 9.81; % m/s^2
 tt = 0: 0.01 : 10;
@@ -41,3 +42,4 @@ g_theta = plot(time, traj(:,1), 'r');
 xlabel('Tempo [s]')
 ylabel('\theta [rad]')
 title('Evoluzione dello stato')
+
